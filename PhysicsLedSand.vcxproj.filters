@@ -17,5 +17,9 @@
   <ItemGroup>
     <None Include="PhysicsLedSand.ino" />
   </ItemGroup>
- 
+  <ItemGroup>
+    <ClInclude Include="__vm\.PhysicsLedSand.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
